@@ -4,7 +4,6 @@
 * Description: This plugin displays a FlipClock.js countdown. E.g. (&lt;div class="clock"&gt;&lt;/div&gt;)
 * Version: 0.101 (03212019)
 * Author: Mark Bosky
-* Author URI: https://assets.mo.gov
 * License: GPL2 or later
 */
 
