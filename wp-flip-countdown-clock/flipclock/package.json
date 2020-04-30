@@ -20,6 +20,6 @@
     "url": "https://github.com/nodejitsu/browsenpm.org/issues"
   },
   "dependencies": {
-    "jquery": ">=1.7"
+    "jquery": ">=3.5"
   }
 }
